@@ -1,0 +1,7 @@
+name: ChestSignLocker
+version: '1.0'
+main: me.isra.chestSignLocker.ChestSignLocker
+api-version: '1.21'
+description: Protect your chests by placing a sign on them. No other player will be able to open them or steal items using hoppers.
+author: Israelmental
+load: POSTWORLD

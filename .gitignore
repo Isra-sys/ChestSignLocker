@@ -1,0 +1,17 @@
+# Maven build
+/target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Archivos compilados
+*.class
+*.jar
+
+# Logs
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
